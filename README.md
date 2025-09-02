@@ -44,6 +44,3 @@ You can build a standalone `.exe` so the app works even if Python isn’t instal
 ```bash
 pip install pyinstaller
 pyinstaller --onefile --name CapsLocker caps_locker.py
-
-
-<img width="847" height="490" alt="caps-locker" src="https://github.com/user-attachments/assets/5f56efb7-1037-4d42-b418-0916935fdd3c" />
