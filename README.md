@@ -5,7 +5,7 @@ It can be used either from the **command line** or through a **GUI** built with 
 
 ---
 
-## ✨ Features
+## Features
 - **Command-line mode**:
   - Convert text passed as arguments:
     ```bash
