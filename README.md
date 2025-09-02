@@ -38,7 +38,7 @@ It can be used either from the **command line** or through a **GUI** built with 
 
 ---
 
-## 🚀 Running on Windows without Python
+## Running on Windows without Python
 You can build a standalone `.exe` so the app works even if Python isn’t installed:
 
 ```bash
