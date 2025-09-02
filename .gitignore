@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
